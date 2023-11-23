@@ -1,4 +1,9 @@
-### Hi there 👋
+### Maxwell Jay
+
+- 🌱 Undergraduate majoring in Automation at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/).
+- 👯 Member of [HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto), mainly working on documentation and file management.
+- 🔭 Interested in **Robotics** and **Embedded Systems**. Former team member of [HITSZ-VEX 南工麟云](https://space.bilibili.com/3493271458285683).
+- 🌞 Morning bird, not a night owl.
 
 <!--
 **MaxwellJay256/MaxwellJay256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
