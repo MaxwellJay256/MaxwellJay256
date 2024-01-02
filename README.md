@@ -1,4 +1,8 @@
-![Ayu](images/72027100_p0.png)
+![Ayu_s](images/72027100_p0.png)
+
+<p align="center"> <sup>
+    <i>Ayu_s</i> by そゐち / sowiti
+</sup> </p>
 
 ### Hi, this is Maxwell Jay
 
