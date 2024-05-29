@@ -11,6 +11,18 @@
 - 🔭 Interested in **Robotics** and **Embedded Systems**. Former team member of [HITSZ-VEX 南工麟云](https://space.bilibili.com/3493271458285683).
 - 🌞 Morning bird, not a night owl.
 
+### HITSZ-related Repositories
+
+My repositories below may be helpful for HITSZ undergraduates.
+
+- [mega_12800](https://github.com/MaxwellJay256/mega_12800)
+- [Team32-2nd_HongliCup](https://github.com/MaxwellJay256/Team32-2nd_HongliCup)
+- [CppLab_2023](https://github.com/MaxwellJay256/CppLab_2023)
+- [MetroTicketingSystem](https://github.com/MaxwellJay256/MetroTicketingSystem)
+- [Bike-Computer](https://github.com/MaxwellJay256/Bike-Computer)
+- [Team8-3rd-HongliCup](https://github.com/MaxwellJay256/Team8-3rd-HongliCup)
+- [FPGALab_2024](https://github.com/MaxwellJay256/FPGALab_2024)
+
 <!--
 **MaxwellJay256/MaxwellJay256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
