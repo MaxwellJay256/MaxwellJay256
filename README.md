@@ -16,11 +16,11 @@
 My repositories below may be helpful for HITSZ undergraduates.
 
 - [mega_12800](https://github.com/MaxwellJay256/mega_12800)
-- [Team32-2nd_HongliCup](https://github.com/MaxwellJay256/Team32-2nd_HongliCup)
+- [2nd-HongliCup-Team32](https://github.com/MaxwellJay256/2nd-HongliCup-Team32)
 - [CppLab_2023](https://github.com/MaxwellJay256/CppLab_2023)
 - [MetroTicketingSystem](https://github.com/MaxwellJay256/MetroTicketingSystem)
 - [Bike-Computer](https://github.com/MaxwellJay256/Bike-Computer)
-- [Team8-3rd-HongliCup](https://github.com/MaxwellJay256/Team8-3rd-HongliCup)
+- [3rd-HongliCup-Team8](https://github.com/MaxwellJay256/3rd-HongliCup-Team8)
 - [FPGALab_2024](https://github.com/MaxwellJay256/FPGALab_2024)
 
 <!--
