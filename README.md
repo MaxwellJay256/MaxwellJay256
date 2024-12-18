@@ -21,7 +21,11 @@
 
 <details>
 
-<summary> HITSZ-related Repositories
+<summary>
+  <b>
+    HITSZ-related Repositories
+  </b>
+</summary>
 
 My repositories below may be helpful for HITSZ undergraduates.
 
