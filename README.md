@@ -1,7 +1,15 @@
+<!--
 ![Ayu_s](images/72027100_p0.png)
 
 <p align="center"> <sup>
     <i>Ayu_s</i> by そゐち / sowiti
+</sup> </p>
+-->
+
+![見えてくる](images/80288827_p0.jpg)
+
+<p align="center"> <sup>
+    <i>見えてくる</i> by usahori
 </sup> </p>
 
 ### Hi, this is Maxwell Jay
@@ -11,17 +19,21 @@
 - 🔭 Interested in **Robotics** and **Embedded Systems**. Former team member of [HITSZ-VEX 南工麟云](https://space.bilibili.com/3493271458285683).
 - 🌞 Morning bird, not a night owl.
 
-### HITSZ-related Repositories
+<details>
+
+<summary> HITSZ-related Repositories
 
 My repositories below may be helpful for HITSZ undergraduates.
 
 - [mega_12800](https://github.com/MaxwellJay256/mega_12800)
-- [2nd-HongliCup-Team32](https://github.com/MaxwellJay256/2nd-HongliCup-Team32)
 - [CppLab_2023](https://github.com/MaxwellJay256/CppLab_2023)
 - [MetroTicketingSystem](https://github.com/MaxwellJay256/MetroTicketingSystem)
 - [Bike-Computer](https://github.com/MaxwellJay256/Bike-Computer)
-- [3rd-HongliCup-Team8](https://github.com/MaxwellJay256/3rd-HongliCup-Team8)
 - [FPGALab_2024](https://github.com/MaxwellJay256/FPGALab_2024)
+- [dip_ws_2024](https://github.com/MaxwellJay256/dip_ws_2024)
+- [DDR4](https://github.com/MaxwellJay256/DDR4)
+
+</details>
 
 <!--
 **MaxwellJay256/MaxwellJay256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
