@@ -14,10 +14,11 @@
 
 ### Hi, this is Maxwell Jay
 
-- 🌱 Undergraduate majoring in **Automation** at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/).
-- 👯 Member of [HITSZ OpenAuto](https://github.com/HITSZ-OpenAuto), mainly working on documentation and file management.
-- 🔭 I'm focusing on advanced embedded hardware & software development.
-- 🌞 Morning bird, not a night owl.
+- 🌱 Graduate majoring in **Automatic Control** at [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/).
+- 👯 Co-founder of [HITSZ OpenAuto](https://github.com/HITSZ-OpenAuto).
+- 🔎 My research focuses on brain-computer interface (BCI) for medical purpose.
+- 🔭 I'm interested in advanced embedded hardware & software development.
+- 🎮 Hobby: DJ & HiFi music.
 
 <details>
 
@@ -36,6 +37,7 @@ My repositories below may be helpful for HITSZ undergraduates.
 - [FPGALab_2024](https://github.com/MaxwellJay256/FPGALab_2024)
 - [dip_ws_2024](https://github.com/MaxwellJay256/dip_ws_2024)
 - [DDR4](https://github.com/MaxwellJay256/DDR4)
+- [PatternRecognitionLab_2024](https://github.com/MaxwellJay256/PatternRecognitionLab_2024)
 
 </details>
 
